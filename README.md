@@ -107,7 +107,7 @@ npm run start
 - HMR (Hot Module Reload) được kích hoạt
 
 ## Cập nhật gần đây
-- **06/10/2024**: Thêm trang Lịch sử đơn hàng và Order Detail Modal
+- **06/10/2025**: Thêm trang Lịch sử đơn hàng và Order Detail Modal
 - Tích hợp đầy đủ vào navigation system
 - Cấu hình deployment cho production
 
@@ -126,5 +126,4 @@ npm run start
 
   Run `npm start` to start the development server.
   # DATH
-# DATH
 # DATH_demoWeb
