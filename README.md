@@ -1,4 +1,4 @@
-# Design System and 5 Pages - Marketplace Application
+# Marketplace Application
 
 ## Overview
 Ứng dụng marketplace/mạng xã hội thương mại điện tử được xây dựng bằng React + Vite + TypeScript với hệ thống design system hoàn chỉnh sử dụng Radix UI và Tailwind CSS.
